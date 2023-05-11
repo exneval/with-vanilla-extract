@@ -1,6 +1,6 @@
 # Turborepo starter
 
-This is a pnpm turborepo Next.js with Material UI.
+This is a pnpm turborepo Next.js with Vanilla-Extract.
 
 ## What's inside?
 
@@ -8,7 +8,7 @@ This turborepo uses [pnpm](https://pnpm.io) as a package manager. It includes th
 
 ### Apps and Packages
 
-- `web`: another [Next.js](https://nextjs.org/) app with [Material UI](https://mui.com/core/)
+- `web`: another [Next.js](https://nextjs.org/) app with [Vanilla-Extract](https://vanilla-extract.style)
 - `eslint-config-custom`: `eslint` configurations
 - `tsconfig`: `tsconfig.json`s used throughout the monorepo
 
