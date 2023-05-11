@@ -1,0 +1,27 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "tsc && next lint --fix ."
+  },
+  "dependencies": {
+    "next": "^13.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@total-typescript/ts-reset": "0.4.2",
+    "@types/node": "^18.16.6",
+    "@types/react": "^18.2.6",
+    "@types/react-dom": "^18.2.4",
+    "@vanilla-extract/css": "^1.11.0",
+    "@vanilla-extract/next-plugin": "^2.1.2",
+    "eslint-config-custom": "workspace:*",
+    "tsconfig": "workspace:*",
+    "typescript": "^5.0.4"
+  }
+}
